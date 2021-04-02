@@ -1,0 +1,5 @@
+年齢,職業,婚姻,学歴,債務不履行,平均残高,住宅ローン,個人ローン,連絡手段,最終通話日,最終通話月,最終通話秒数,通話回数_販促中,前回販促後_経過日数,通話回数_販促前,前回販促結果,今回販促結果
+46,blue-collar,single,secondary,いいえ,0,いいえ,いいえ,unknown,21,may,27,10,-1,0,unknown,失敗
+41,technician,married,secondary,いいえ,352,はい,いいえ,cellular,18,nov,129,2,-1,0,unknown,失敗
+30,technician,single,tertiary,いいえ,2325,いいえ,いいえ,cellular,10,aug,263,1,127,7,failure,成功
+26,student,single,tertiary,いいえ,641,はい,いいえ,cellular,15,may,55,1,368,1,failure,失敗
